@@ -1,4 +1,4 @@
-name: todo-lab
+name: todo-mariana
 services:
   db:
     image: postgres:17-alpine
